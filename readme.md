@@ -3,14 +3,16 @@
 ## Configuration
 Installer cmder https://cmder.net/
 
+Naviguer jusque dans un dossier de travail avec cmder 
+```
+cd [dir_sources]
+```
+
 Récupérer projet sur l’url (https://github.com/gregoryjacques/GitSample.git)
 ```
 git clone https://github.com/gregoryjacques/GitSample.git
 ```
-Naviguer jusque dans le dossier avec cmder
-```
-cd [dir_sources]
-```
+
 ## Manipulation de branches
 Basculer sur la branche develop
 ```
@@ -104,4 +106,5 @@ git status
 ```
 
 Layus sur le Head avec de multiples commit
+
 Merge / rebase
